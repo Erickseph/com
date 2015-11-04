@@ -1,0 +1,36 @@
+body{
+	width: 600px;
+	margin :auto;  
+	
+
+}
+
+h2{ 
+
+	font-family: Robot,sans-serif;
+	padding-left: 35px;
+}
+
+
+}
+
+.wrap{
+
+	color: white;
+    min-width: 400px;
+	width: 60%;
+	margin: auto;
+	background:#009688;
+	overflow: hidden;
+	padding-left:0px;
+	padding-right: 0;
+}
+ul li{
+	font-size: 14px;
+	font-family: Robot,sans-serif;
+	display: inline;
+    padding-right: 10px;
+    margin-right: 20px;
+   
+    
+}
